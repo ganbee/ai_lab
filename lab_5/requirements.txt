@@ -1,0 +1,6 @@
+google-genai
+python-dotenv
+chromadb
+python-docx
+pandas
+pdfplumber
