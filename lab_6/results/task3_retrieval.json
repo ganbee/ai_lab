@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "expected_source": "adl.md",
+    "retrieved": [
+      {
+        "source": "adl.md",
+        "distance": 0.3236
+      },
+      {
+        "source": "hand_function.md",
+        "distance": 0.347
+      }
+    ],
+    "top1_correct": true,
+    "in_top_k": true
+  },
+  {
+    "id": 2,
+    "expected_source": "adl.md",
+    "retrieved": [
+      {
+        "source": "adl.md",
+        "distance": 0.3571
+      },
+      {
+        "source": "adl.md",
+        "distance": 0.3599
+      }
+    ],
+    "top1_correct": true,
+    "in_top_k": true
+  },
+  {
+    "id": 3,
+    "expected_source": "hand_function.md",
+    "retrieved": [
+      {
+        "source": "hand_function.md",
+        "distance": 0.2835
+      },
+      {
+        "source": "hand_function.md",
+        "distance": 0.295
+      }
+    ],
+    "top1_correct": true,
+    "in_top_k": true
+  },
+  {
+    "id": 4,
+    "expected_source": "hand_function.md",
+    "retrieved": [
+      {
+        "source": "hand_function.md",
+        "distance": 0.2801
+      },
+      {
+        "source": "hand_function.md",
+        "distance": 0.3052
+      }
+    ],
+    "top1_correct": true,
+    "in_top_k": true
+  },
+  {
+    "id": 5,
+    "expected_source": "cognitive.md",
+    "retrieved": [
+      {
+        "source": "cognitive.md",
+        "distance": 0.2644
+      },
+      {
+        "source": "cognitive.md",
+        "distance": 0.3116
+      }
+    ],
+    "top1_correct": true,
+    "in_top_k": true
+  },
+  {
+    "id": 6,
+    "expected_source": "cognitive.md",
+    "retrieved": [
+      {
+        "source": "cognitive.md",
+        "distance": 0.3444
+      },
+      {
+        "source": "adl.md",
+        "distance": 0.3576
+      }
+    ],
+    "top1_correct": true,
+    "in_top_k": true
+  },
+  {
+    "id": 7,
+    "expected_source": "adaptation.md",
+    "retrieved": [
+      {
+        "source": "adaptation.md",
+        "distance": 0.2897
+      },
+      {
+        "source": "adaptation.md",
+        "distance": 0.3024
+      }
+    ],
+    "top1_correct": true,
+    "in_top_k": true
+  },
+  {
+    "id": 8,
+    "expected_source": "adaptation.md",
+    "retrieved": [
+      {
+        "source": "hand_function.md",
+        "distance": 0.3256
+      },
+      {
+        "source": "adaptation.md",
+        "distance": 0.3332
+      }
+    ],
+    "top1_correct": false,
+    "in_top_k": true
+  },
+  {
+    "id": 9,
+    "expected_source": "adaptation.md",
+    "retrieved": [
+      {
+        "source": "adaptation.md",
+        "distance": 0.3298
+      },
+      {
+        "source": "adaptation.md",
+        "distance": 0.3395
+      }
+    ],
+    "top1_correct": true,
+    "in_top_k": true
+  },
+  {
+    "id": 10,
+    "expected_source": "hand_function.md",
+    "retrieved": [
+      {
+        "source": "hand_function.md",
+        "distance": 0.309
+      },
+      {
+        "source": "hand_function.md",
+        "distance": 0.3119
+      }
+    ],
+    "top1_correct": true,
+    "in_top_k": true
+  },
+  {
+    "id": 11,
+    "expected_source": "adaptation.md",
+    "retrieved": [
+      {
+        "source": "adaptation.md",
+        "distance": 0.3207
+      },
+      {
+        "source": "cognitive.md",
+        "distance": 0.3706
+      }
+    ],
+    "top1_correct": true,
+    "in_top_k": true
+  },
+  {
+    "id": 12,
+    "expected_source": "adl.md",
+    "retrieved": [
+      {
+        "source": "adl.md",
+        "distance": 0.3507
+      },
+      {
+        "source": "adl.md",
+        "distance": 0.3554
+      }
+    ],
+    "top1_correct": true,
+    "in_top_k": true
+  }
+]
